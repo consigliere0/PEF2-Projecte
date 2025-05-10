@@ -1,4 +1,4 @@
-# PEF2-Projecte
+# PEF2 - Detecció Fibril·lació Auricular
 
 Aquest projecte té com a objectiu desenvolupar un codi capaç de detectar la presència de fibril·lació auricular en una senyal obtinguda mitjançant BITalino.
 
